@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Thu Jan 29 13:17:04 2026
+[*]
+[dumpfile] "/home/sdrtestpc/cocotbTest/taxi/src/axis/tb/taxi_axis_register/dump.fst"
+[dumpfile_mtime] "Thu Jan 29 12:55:30 2026"
+[dumpfile_size] 1280
+[savefile] "/home/sdrtestpc/cocotbTest/taxi/src/axis/tb/taxi_axis_register/test.sav"
+[timestart] 5250
+[size] 1854 1001
+[pos] -27 -24
+*-13.609656 63430 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test_taxi_axis_register.
+[treeopen] test_taxi_axis_register.uut.
+[sst_width] 278
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@28
+test_taxi_axis_register.uut.clk
+@200
+-output
+@22
+test_taxi_axis_register.m_axis.tdata[7:0]
+@28
+test_taxi_axis_register.m_axis.tready
+test_taxi_axis_register.m_axis.tvalid
+@200
+-input
+@22
+test_taxi_axis_register.s_axis.tdata[7:0]
+@28
+test_taxi_axis_register.s_axis.tready
+test_taxi_axis_register.s_axis.tvalid
+@200
+-internals
+@28
+test_taxi_axis_register.uut.genblk3.store_buf_to_output
+test_taxi_axis_register.uut.genblk3.store_input_to_buf
+test_taxi_axis_register.uut.genblk3.store_input_to_output
+@22
+test_taxi_axis_register.uut.genblk3.tdata_buf_reg[7:0]
+@28
+test_taxi_axis_register.uut.genblk3.tvalid_buf_reg
+@29
+test_taxi_axis_register.uut.genblk3.tvalid_reg
+[pattern_trace] 1
+[pattern_trace] 0

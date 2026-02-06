@@ -1,0 +1,14 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1769701926" />
+    <testcase name="run_test_001" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="60" time="0.037252187728881836" sim_time_ns="5950.0" ratio_time="159722.1629855293" />
+    <testcase name="run_test_002" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="60" time="0.07196807861328125" sim_time_ns="23530.0" ratio_time="326950.50991201104" />
+    <testcase name="run_test_003" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="60" time="0.08078479766845703" sim_time_ns="23530.0" ratio_time="291267.67262038274" />
+    <testcase name="run_test_004" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="60" time="0.08847188949584961" sim_time_ns="23530.0" ratio_time="265960.18389664707" />
+    <testcase name="run_test_tuser_assert_001" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="99" time="0.0038046836853027344" sim_time_ns="420.0" ratio_time="110390.25441784685" />
+    <testcase name="run_stress_test_001" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="120" time="0.06823992729187012" sim_time_ns="11190.0" ratio_time="163980.24505710663" />
+    <testcase name="run_stress_test_002" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="120" time="0.1324617862701416" sim_time_ns="41850.0" ratio_time="315940.175490699" />
+    <testcase name="run_stress_test_003" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="120" time="0.14766454696655273" sim_time_ns="42130.000000000015" ratio_time="285308.835908614" />
+    <testcase name="run_stress_test_004" classname="test_taxi_axis_register" file="/home/sdrtestpc/cocotb_env/lib/python3.12/site-packages/cocotb/_test_factory.py" lineno="120" time="0.1626899242401123" sim_time_ns="42370.0" ratio_time="260434.07542231426" />
+  </testsuite>
+</testsuites>
